@@ -125,7 +125,7 @@ This project demonstrates how data analytics can help businesses:
 
 Power BI interactive dashboard:
 
-[]
+[https://app.powerbi.com/groups/me/reports/a4389e7c-7944-4274-8032-e54d3e152d58/9aee48d554b15bd86b00?experience=power-bi]
 ---
 
 ## Author
